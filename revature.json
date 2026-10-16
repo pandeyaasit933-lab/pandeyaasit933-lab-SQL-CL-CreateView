@@ -1,0 +1,15 @@
+{
+  "type": "java",
+  "testFiles": [
+    {
+      "path": "src/test/java/CreateAViewTest.java",
+      "testCases": [
+        {
+          "methodName": "problemTest",
+          "label": "Validates successful view creation",
+          "description": "Checks that the specified view exists by querying for it and checking the results against the expected output."
+        }
+      ]
+    }
+  ]
+}
